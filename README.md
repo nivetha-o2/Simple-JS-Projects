@@ -1,1 +1,1 @@
-"# Simple-JS-Projects" 
+Welcome to my collection of simple HTML, CSS, and JavaScript projects. These projects were developed during my learning progress and serve as practical demonstrations of my growing skills in frontend development.
