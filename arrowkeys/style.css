@@ -1,0 +1,10 @@
+#mybox{
+    background-color: hsl(240, 91%, 66%);
+    font-size: 8rem;
+    width: 200px;
+    height:200px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    position:relative;
+}

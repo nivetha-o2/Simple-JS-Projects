@@ -1,0 +1,18 @@
+body{
+    text-align:center;
+}
+
+#textrandom{
+    text-align: center;
+    font-size: 2em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#Roll{
+    padding:10px 20px;
+    width:100px;
+    border-radius: 10px;
+    background: rgb(217, 73, 73);
+    color:white;
+
+}
